@@ -41,7 +41,7 @@ timeline reconstruction, and the final legal-technical report.
 - **log2timeline/plaso (referenced)** – professional-grade timeline tool, documented as the production alternative
 - **GitHub Actions** – structure + Markdown CI
 
-## How to Reproduce
+## How to Run this
 1. Clone this repo.
 2. Run `02-evidence-collection/hash_verify.sh <image-file>` to hash and verify the disk image.
 3. Run `04-timeline-analysis/timeline_correlation.py` on the sample logs to regenerate `attack_timeline.csv`.
