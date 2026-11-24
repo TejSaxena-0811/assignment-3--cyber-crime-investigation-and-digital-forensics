@@ -1,7 +1,21 @@
-# Case Omega: Investigating a Ransomware Attack on a Healthcare Network
+### Name: Tej Saxena
 
-**Course:** Unit 3 – Investigation of Cyber Crimes
-**Student:** Tej Saxena | Roll No: 2301730297
+### Roll Number: 2301730297
+
+### Course: B.Tech CSE (AI-ML)
+
+### Semester: 7
+
+### Section: E
+
+### Subject: Cyber Crime and Digital Forensics Lab
+
+### Professor: Mr. Anuj Tiwari
+
+----------------------------------------------------------------------------------------------
+
+# Assignment 3 - Case Omega: Investigating a Ransomware Attack on a Healthcare Network
+
 
 ## Scenario
 A fictional hospital's IT infrastructure (file server + staff workstations) was hit
